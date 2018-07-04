@@ -48,7 +48,7 @@ my $email = Email::Simple->create(
 }
 
 
-Alterar o também From           => 'ths@reverso', para o reverso de seu ip senão pode cair em mensagem de spam.
+Alterar também o From           => 'ths@reverso', para o reverso de seu ip senão pode cair em mensagem de spam.
 Para encontrar o reverso d seu ip: 
 drill -x x.x.x.x
 ou 
